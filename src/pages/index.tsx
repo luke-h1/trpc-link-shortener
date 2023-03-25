@@ -1,9 +1,4 @@
-
 const Home = () => {
-  return (
-    <>
-      yo yo yo
-    </>
-  )
-}
+  return <>yo yo yo</>;
+};
 export default Home;
